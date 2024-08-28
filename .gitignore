@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore npm packages
+node_modules/
+
+# Ignore Visual Studio Code settings
+.vscode/
